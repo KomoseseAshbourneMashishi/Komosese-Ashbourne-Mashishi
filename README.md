@@ -3,7 +3,7 @@
 # Hi, I'm Komosese Ashbourne Mashishi 👋
 
 ## 👨‍💻 About Me
-I have experience in IT Technical Support, I currently hold an **NQF 5 Information Technology in System Support, and currently studying NQF 5 Occupational Certificate in Cybersecurity Analyst**.I am an aspiring **Cybersecurity and Cloud Security Professional** with a strong interest in **Security Operations Centre (SOC), Identity and Access Management (IAM), Microsoft Azure, and Cloud Security**. 
+I have experience in IT Technical Support, I currently hold an **NQF 5 Information Technology in System Support, and currently studying NQF 5 Occupational Certificate in Cybersecurity Analyst**.A **Cybersecurity and Cloud Security Professional** with a strong interest in **Security Operations Centre (SOC), Identity and Access Management (IAM), Microsoft Azure, and Cloud Security**. 
 
 I am building practical skills through hands-on labs, cybersecurity projects, Microsoft technologies, and continuous learning. My goal is to develop from an entry-level cybersecurity professional into advanced roles in **SOC, IAM, Cloud Security, Security Architecture, and eventually cybersecurity leadership**.
 
