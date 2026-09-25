@@ -128,6 +128,7 @@ Implemented Conditional Access policies to improve identity security and control
 - Policy Configuration
 
 📁 Repository: 
+
 https://github.com/KomoseseAshbourneMashishi/Enabling-MFA.git
 https://github.com/KomoseseAshbourneMashishi/Conditional-Access.git
 https://github.com/KomoseseAshbourneMashishi/Identity-Protection.git
@@ -144,6 +145,7 @@ Created and managed users, security groups, and access permissions using Microso
 - Identity Administration
 
 📁 Repository:
+
 https://github.com/KomoseseAshbourneMashishi/Managing-Users-PIM.git
 https://github.com/KomoseseAshbourneMashishi/Allocating-Licenses-.git
 
@@ -193,6 +195,7 @@ Configured and explored Azure security monitoring capabilities.
 - Diagnostic Settings
 
 📁 Repository:
+
 https://github.com/KomoseseAshbourneMashishi/Sentinel.git
 
 ---
