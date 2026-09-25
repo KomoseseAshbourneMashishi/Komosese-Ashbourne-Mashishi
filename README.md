@@ -130,7 +130,9 @@ Implemented Conditional Access policies to improve identity security and control
 📁 Repository: 
 
 https://github.com/KomoseseAshbourneMashishi/Enabling-MFA.git
+
 https://github.com/KomoseseAshbourneMashishi/Conditional-Access.git
+
 https://github.com/KomoseseAshbourneMashishi/Identity-Protection.git
 
 ---
@@ -147,6 +149,7 @@ Created and managed users, security groups, and access permissions using Microso
 📁 Repository:
 
 https://github.com/KomoseseAshbourneMashishi/Managing-Users-PIM.git
+
 https://github.com/KomoseseAshbourneMashishi/Allocating-Licenses-.git
 
 ---
