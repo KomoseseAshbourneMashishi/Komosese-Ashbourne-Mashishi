@@ -104,14 +104,13 @@ I am building practical skills through hands-on labs, cybersecurity projects, Mi
 - ✅ Microsoft AZ-900: Azure Fundamentals
 - ✅ Microsoft SC-200: Security Operations Analyst Associate
 - ✅ Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+- ✅ Microsoft SC-300: Identity and Access Administrator
 
 ### Currently Studying
 
 - ⏳ CompTIA Security+
 - ⏳ Microsoft SC-100: Cybersecurity Architect
-- ⏳ Microsoft SC-300: Identity and Access Administrator
 - ⏳ Microsoft AI-900: Azure AI Fundamentals
-
 ---
 
 # 📂 Featured Projects
